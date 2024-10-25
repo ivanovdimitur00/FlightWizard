@@ -1,0 +1,33 @@
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.deps.json
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\refint\FlightWizard.Business.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\ref\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.deps.json
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\refint\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\ref\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.deps.json
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\refint\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Business\obj\Debug\net8.0\ref\FlightWizard.Business.dll
