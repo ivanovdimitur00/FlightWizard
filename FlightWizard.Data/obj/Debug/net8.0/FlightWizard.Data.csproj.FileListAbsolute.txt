@@ -1,0 +1,51 @@
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.deps.json
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.runtimeconfig.json
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWi.22798691.Up2Date
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\refint\FlightWizard.Data.dll
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\ref\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.deps.json
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.runtimeconfig.json
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWi.22798691.Up2Date
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\refint\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\ref\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.deps.json
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.runtimeconfig.json
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\bin\Debug\net8.0\FlightWizard.Business.pdb
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWi.22798691.Up2Date
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\refint\FlightWizard.Data.dll
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.pdb
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\FlightWizard.Data.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\специализирана практика\specialized_practice_projects\FlightWizard\FlightWizard.Data\obj\Debug\net8.0\ref\FlightWizard.Data.dll
