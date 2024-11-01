@@ -1,5 +1,6 @@
 # FlightWizard
-a C# and Windows forms project for plane ticket reservation, employing the use of the state design patterns (aside other less important ones).
+a C#, .NET and Windows forms project for plane ticket reservation, employing the use of the state design patterns (aside other less important ones).
+DISCLAIMER: I received help from a student that had this project given for his class.
 <br/>
 <br/>
 
@@ -7,41 +8,33 @@ a C# and Windows forms project for plane ticket reservation, employing the use o
 0. [Project status](#Project-status)
 1. [Description](#Description)
 2. [Project requirements](#Project-requirements)
-3. [Algortihm explanation](#Algorithm-explanation) *(IF NEEDED)*
-4. [Key features and functionalities](#Key-features-and-functionalities)
-5. [Structure](#Structure)
-6. [Installation instructions](#Installation-instructions)
-7. [Dependencies](#Dependencies)
-8. [System requirements](#System-requirements)
-9. [Usage examples](#Usage-examples)
-10. [Demonstration](#Demonstration)
-11. [API references](#API-references)
-12. [Bugs](#Bugs)
-13. [Future improvements](#Futute-improvements)
-14. [Used resources](#Used-resources) 
+3. [Key features and functionalities](#Key-features-and-functionalities)
+4. [Structure](#Structure)
+5. [Installation instructions](#Installation-instructions)
+6. [Dependencies](#Dependencies)
+7. [System requirements](#System-requirements)
+8. [Usage examples](#Usage-examples)
+9. [Demonstration](#Demonstration)
+10. [API references](#API-references)
+11. [Bugs](#Bugs)
+12. [Future improvements](#Futute-improvements)
+13. [Used resources](#Used-resources) 
 <br/>
 
 ## Project status
-Describe project status.
+Completed and working. Not expecting changes.
 <br/>
 <br/>
 
 ## Description
-Describe the purpose / goal of the project.
+The purpose and goal of the project is to create a project to reserve plane tickets for flights using C# and .NET and also implementing the state design pattern.
 
-Describe the intended audiences.
-
-Short, brief description.
+The intended audiences for the project are my erasmus coordinator and myself.
 <br/>
 <br/>
 
 ## Project requirements
-This is an optional section. List the project requirements. 
-<br/>
-<br/>
-
-## Algorithm explanation
-This is an optional section. Either explain here how the algorithm works or place an external link. 
+The requirements for the project can be viewed in [this file]().
 <br/>
 <br/>
 
