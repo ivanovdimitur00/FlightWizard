@@ -20,7 +20,6 @@ DISCLAIMER: I received help from a student that had this project given for his c
 10. [API references](#API-references)
 11. [Bugs](#Bugs)
 12. [Future improvements](#Futute-improvements)
-13. [Used resources](#Used-resources) 
 <br/>
 
 ## Project status
@@ -36,41 +35,72 @@ The intended audiences for the project are my erasmus coordinator and myself.
 <br/>
 
 ## Project requirements
-The requirements for the project can be viewed in [this file]().
+The requirements for the project can be viewed in [this file](Design-patterns-english-en.pdf).
 <br/>
 <br/>
 
 ## Key features and functionalities
-* Key feature 1;
-* Function 1; <br/>
-you can also section it with sentences - explanations.
+* KEY FEATURES
+  * Users can register an account;
+  * Users can login with a registered account;
+  * Users can browse flight and reserve seats;
+  * Admins can add, edit and delete flights.
+* FUNCTIONALITIES  
+  * Login and register;
+  * SQL database model;
+  * Custom user;
+  * Sessions;
+  * Repositories.
 <br/>
 
 ## Structutre
-* Describe how the project files are arranged and what they mean;
-  * Use bullet points and short sentences;
+Here are some of the important directories and files you need to know about this project:
+* `FlightWizard.Business` - Contains the Business logic of the application such as the interfaces for the repository and state pattern, the database model, and session files;
+* `FlightWizard.Data` - Contains the `ApplicationContext.cs` file in the `Contexts` folder to configure the SQL connection, migrations and repositories;
+* `FlightWizard.UI` - Contains the files for all interactable panels. Contains the `Program.cs` file to start the program.
 <br/>
 
 ## Installation instructions
-1. How to access and/or setup the project;
-2. Use a numbered list;
+1. Download this project;
+2. Open the Project in Visual Studio 2022;
+3. Open Miscrosoft SQL Server 2022;
+4. Ensure you have all the needed dependencies;
+5. Ensure you are connecting to your local database;
+6. Build the project. You should have access now.
 <br/>
 
 ## Dependencies
-* Dependency 1;
-* Dependency 2;
+This is a list of dependencies that you need if you want to run the project locally. Aside from an internet connection, you will need:
+* Visual Studio 2022;
+* Microsoft SQL Server 2022;
+* Microsoft .NET framework 8.0;
+* NuGet packages:
+  * `FlightWizard.Data`:
+    * "Microsoft.EntityFrameworkCore" Version="8.0.3";
+    * "Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3";
+    * "Microsoft.EntityFrameworkCore.Tools" Version="8.0.3".
 <br/>
 
 ## System requirements
-| System requirements |
-| ------------------- | 
-| requirement 1       | 
-| requirement 2       | 
+The project has been developed for the Miscrosoft Windows operating system.
+| System requirements  |
+| -------------------- | 
+| Microsoft Windows 10 | 
+
 <br/>
 
 ## Usage examples
-1. Make a tutorial on how the project can be used;
-2. Use numbered lists;
+We assume that the project has been accessed on the internet or has been run on a local instance.
+
+For unregistered users:
+They can look at recipes and search for them, but not edit;
+They can register and/or login.
+For logged-in users:
+They can create their own recipes;
+They can leave comments on recipes;
+They can ask for a promotion;
+They can search for recipes.
+For Administrators:
 <br>
 
 ## Demonstration
@@ -79,18 +109,13 @@ Leave a link to an image hosting site or a video to demonstrate how the project 
 <br/>
 
 ## API references
-* If the project is used as a standalone library, describe the functions that can be called;
+Nothing to mention here.
+<br/>
 <br/>
 
 ## Bugs
-- [ ] describe any occuring bugs that need to be fixed;
+- [X]  No bugs have been caught.
 <br/>
 
 ## Future improvements
-- [ ] describe some ideas you would want to implement into your project;
-<br/>
-
-## Used resources
-List the resources used in this project. 
-<br/>
-<br/>
+- [ ] Remake this project for the web browser or mobile phone;
