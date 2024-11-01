@@ -1,8 +1,8 @@
 # FlightWizard
-a C#, .NET and Windows forms project for plane ticket reservation, employing the use of the state design patterns (aside other less important ones).
+a C#, .NET and Windows forms project for plane ticket reservation, employing the use of the state and repository design patterns.
 <br/>
 <br/>
-DISCLAIMER: I received help from a student that had this project given for his class.
+DISCLAIMER: I received help from a student that had this project given to his class.
 <br/>
 <br/>
 
@@ -16,10 +16,9 @@ DISCLAIMER: I received help from a student that had this project given for his c
 6. [Dependencies](#Dependencies)
 7. [System requirements](#System-requirements)
 8. [Usage examples](#Usage-examples)
-9. [Demonstration](#Demonstration)
-10. [API references](#API-references)
-11. [Bugs](#Bugs)
-12. [Future improvements](#Futute-improvements)
+9. [API references](#API-references)
+10. [Bugs](#Bugs)
+11. [Future improvements](#Futute-improvements)
 <br/>
 
 ## Project status
@@ -73,7 +72,7 @@ Here are some of the important directories and files you need to know about this
 This is a list of dependencies that you need if you want to run the project locally. Aside from an internet connection, you will need:
 * Visual Studio 2022;
 * Microsoft SQL Server 2022;
-* Microsoft .NET framework 8.0;
+* Microsoft .NET framework 8.0.
 * NuGet packages:
   * `FlightWizard.Data`:
     * "Microsoft.EntityFrameworkCore" Version="8.0.3";
@@ -92,21 +91,13 @@ The project has been developed for the Miscrosoft Windows operating system.
 ## Usage examples
 We assume that the project has been accessed on the internet or has been run on a local instance.
 
-For unregistered users:
-They can look at recipes and search for them, but not edit;
-They can register and/or login.
-For logged-in users:
-They can create their own recipes;
-They can leave comments on recipes;
-They can ask for a promotion;
-They can search for recipes.
+1. For unregistered users:
+ * They can register and/or login.
+2. For logged-in users:
+ * They can browse flight and reserve seats.
 For Administrators:
+ * They can Add/Edit/Remove flights.
 <br>
-
-## Demonstration
-Leave a link to an image hosting site or a video to demonstrate how the project works. 
-<br/>
-<br/>
 
 ## API references
 Nothing to mention here.
