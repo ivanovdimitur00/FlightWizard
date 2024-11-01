@@ -95,9 +95,9 @@ We assume that the project has been accessed on the internet or has been run on 
  * They can register and/or login.
 2. For logged-in users:
  * They can browse flight and reserve seats.
-For Administrators:
+3. For Administrators:
  * They can Add/Edit/Remove flights.
-<br>
+<br/>
 
 ## API references
 Nothing to mention here.
