@@ -1,5 +1,7 @@
 # FlightWizard
-a C#, .NET and Windows forms project for plane ticket reservation, employing the use of the state design patterns (aside other less important ones). <br/>
+a C#, .NET and Windows forms project for plane ticket reservation, employing the use of the state design patterns (aside other less important ones).
+<br/>
+<br/>
 DISCLAIMER: I received help from a student that had this project given for his class.
 <br/>
 <br/>
